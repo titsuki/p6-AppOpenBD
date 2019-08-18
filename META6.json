@@ -1,0 +1,20 @@
+{
+  "auth" : "cpan:TITSUKI",
+  "authors" : [
+    "titsuki"
+  ],
+  "build-depends" : [ ],
+  "depends" : [ ],
+  "description" : "blah blah blah",
+  "license" : "Artistic-2.0",
+  "name" : "App::OpenBD",
+  "perl" : "6.c",
+  "provides" : {
+    "App::OpenBD" : "lib/App/OpenBD.pm6"
+  },
+  "resources" : [ ],
+  "source-url" : "",
+  "tags" : [ ],
+  "test-depends" : [ ],
+  "version" : "0.0.1"
+}
