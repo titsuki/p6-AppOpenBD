@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/titsuki/p6-AppOpenBD.svg?branch=master)](https://travis-ci.org/titsuki/p6-AppOpenBD)
+
 NAME
 ====
 
@@ -9,6 +11,17 @@ SYNOPSIS
 ```perl6
 use App::OpenBD;
 ```
+
+TODO
+====
+
+  * asynchronous file download
+
+  * incremental update
+
+  * efficient indexing
+
+  * efficient search
 
 DESCRIPTION
 ===========

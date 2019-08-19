@@ -16,6 +16,16 @@ use App::OpenBD;
 
 =end code
 
+=head1 TODO
+
+=item asynchronous file download
+
+=item incremental update
+
+=item efficient indexing
+
+=item efficient search
+
 =head1 DESCRIPTION
 
 App::OpenBD is ...
