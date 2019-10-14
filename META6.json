@@ -4,7 +4,10 @@
     "titsuki"
   ],
   "build-depends" : [ ],
-  "depends" : [ ],
+  "depends" : [
+    "LibCurl::HTTP",
+    "JSON::Fast"
+  ],
   "description" : "blah blah blah",
   "license" : "Artistic-2.0",
   "name" : "App::OpenBD",
